@@ -51,7 +51,6 @@ O Layout de base do projeto foi colocado no material complementar e pode ser ace
 
 As melhorias foram aplicadas na aplicação Web em React e também na aplicação de Back-and em Node, novas atualizações serão feitas para incluir as melhorias na aplicação Mobile (React-Native):
 
-* Melhor descrição das tags alt para melhor acessibilidade
 * Criação de tema light e componente Switch para troca de tema (dark / light)
 * Migração de todo o css para styled-components e uso de variáveis
 * Criação de internacionalização com Mult-Idiomas (português e inglês )
