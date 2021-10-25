@@ -15,7 +15,6 @@
 <h2>Menu</h2>
 
 - [Tecnologias](#-tecnologias)
-- [Projeto](#-projeto)
 - [Layout](#️-layout)
 - [Melhorias](#-melhorias)
 - [Licença](#-licença)
@@ -36,10 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Socket.io](https://socket.io)
 - [React-toastify](https://fkhadra.github.io/react-toastify)
 - [react-i18next](https://react.i18next.com)
-
-## 💻 Projeto
-
-O Letmeask é um projeto criado na semana NLW de React JS com objetivo de criar uma sala de pergunta e respostas com autenticação do Google, integração com Firebase e página de administração.
 
 ## 🖌️ Layout
 
